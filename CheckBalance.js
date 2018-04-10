@@ -1,5 +1,5 @@
 /*
- * Checking Your Balance (3-5)
+ * Checking Your Balance
  */
 
 // change the values of `balance`, `checkBalance`, and `isActive` to test your code
